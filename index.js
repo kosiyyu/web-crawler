@@ -1,5 +1,5 @@
 import express from 'express'
-import asyncFetchPeeref from './webcrawler.js'
+import asyncFetchPeeref from './webscraper.js'
 import cors from 'cors'
 
 const app = express()
